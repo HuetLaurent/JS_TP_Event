@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    top: 50px;
+    left:0px;
+    width: auto;
+    height: 50px;
+    margin-bottom: 7px;
+    background-color: gray;
+}
